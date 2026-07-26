@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Mohamed Ijas
 
-<!--
-**ijasmhm/ijasmhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student
 
-Here are some ideas to get you started:
+<!-- <img align="right" height="290" width="370" src="[https://www.pinterest.com/pin/eye-with-code-reflection-photo-on-lummi--293930313203301078/](https://www.womenintech.co.uk/wp-content/uploads/2021/11/Tech-skills-2022-1-1536x864.png.webp)"> -->
+<br/>
+<img src="">
+<img src="">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### i Code in
+
